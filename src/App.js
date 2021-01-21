@@ -37,7 +37,7 @@ export default function App() {
       <hr />
 
       <div className="one">
-        <h3> Checkout my favourite books here </h3>
+        <h3> Checkout my favourite books here 👇 </h3>
       </div>
       <hr />
 
@@ -70,7 +70,8 @@ export default function App() {
       <footer className="footer">
         <h1 className="footer-header">About an App</h1>
         <p className="para">
-          This app suggest some of my favourite books from three categories
+          This app suggest some of my favourite books from three categories.
+          Happy Reading!
         </p>
       </footer>
     </div>
