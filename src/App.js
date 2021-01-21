@@ -9,7 +9,7 @@ const booksDatabase = {
     { name: "The power of Now", author: "Eckhart Tolle" }
   ],
   Horror: [
-    { name: "Stephen King", uthor: "CARRIE" },
+    { name: "Stephen King", author: "CARRIE" },
     { name: "Drakula", author: "Bram Stoker" },
     { name: "The Woman in Black", author: "Susan Hill" }
   ],
