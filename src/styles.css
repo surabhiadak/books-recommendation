@@ -12,6 +12,7 @@
 
 body {
   background-color: #d1fae5;
+  background-image: url("https://images.unsplash.com/photo-1546521343-4eb2c01aa44b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHw%3D&w=1000&q=80");
   display: block;
   margin: auto;
 }
@@ -49,4 +50,9 @@ body {
 .div2 {
   font-size: small;
   margin: 0.3rem;
+}
+
+.footer {
+  background-color: #fee2e2;
+  padding: 2rem;
 }
